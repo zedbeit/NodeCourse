@@ -1,2 +1,2 @@
 # NodeCourse
-This is a notes app based on the node tutorial by andrew j mead
+This is a notes app based on the node.js tutorial by andrew j mead
