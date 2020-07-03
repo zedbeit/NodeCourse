@@ -1,2 +1,11 @@
 # Note App
-This is a notes app based on the node.js tutorial by andrew j mead
+This is a node.js command-line application for adding and removing notes.
+
+## Dependencies
+* npm
+* chalk
+* yargs
+* validator
+
+## Setup
+Clone this repo to your desktop and run `npm install` to install all the dependencies.
