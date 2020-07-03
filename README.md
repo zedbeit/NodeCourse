@@ -19,4 +19,4 @@ run these commands in the root directory.
 `run node app.js remove --title=""` providing the `title` of the note.
 
 ### Improvement
-This app can be improved by adding a list and read commands to listing and reading notes. 
+This app can be improved by adding list and read commands for listing and reading notes. 
