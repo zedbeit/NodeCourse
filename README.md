@@ -17,3 +17,6 @@ run these commands in the root directory.
 `run node app.js add --title="" --body=""` providing the `title` and `body` arguments.
 ### For removing notes use the `remove` command 
 `run node app.js remove --title=""` providing the `title` of the note.
+
+### Improvement
+This app can be improved by adding a list and read commands to listing and reading notes. 
